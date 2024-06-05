@@ -1,0 +1,36 @@
+git -- version
+//versao do git
+
+pwd
+//mostrar local da pasta
+
+clear
+//limpar tela
+
+git config --global user.name "ex"
+
+git config --global user.email "ex"
+//sincronizar github email
+
+git config --global init.defaultBranch main
+
+git config --global --list
+//lista das configurações feitas
+
+cd (local da pasta)
+//comando para entrar em pasta
+
+ls
+//lista as coisas da pasta
+
+git init
+//vai instalar o git na pasta
+
+git status
+//status dos documentos
+
+git add .
+//pegar TODOS os arquivos para o diretorio do git central
+
+
+
