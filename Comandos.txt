@@ -30,7 +30,15 @@ git status
 //status dos documentos
 
 git add .
-//pegar TODOS os arquivos para o diretorio do git central
+//colocar TODOS os arquivos para o diretorio do git central
+
+git commit -m "exemplo de mensagem"
+//fazer o backup para a area de repositorio
+
+git log
+//relatorio de todos os commits ja feitoss
+
+
 
 
 
